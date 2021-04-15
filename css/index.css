@@ -1,0 +1,16 @@
+
+/* ----------------- NAVIGATION TOP ---------------*/
+.navigation {
+    background-color: black !important;
+}
+.navigation .logo-ilit img {
+    width: 400px;
+}
+
+/* ----------------- HERO HOME ---------------*/
+
+.bg-main .container-fluid {
+    height: 800px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
