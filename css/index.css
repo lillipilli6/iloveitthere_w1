@@ -24,7 +24,11 @@ a {
     color: #FF000C!important;
 }
 .nav-item {
-    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.dropdown-menu {
+    border-radius: 0px;
 }
 
 
