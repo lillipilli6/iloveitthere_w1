@@ -1,15 +1,32 @@
 /* ----------------- TYPOGRAPHY ---------------*/
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .text-white {
     color: white;
 }
+a {
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
 
 /* ----------------- NAVIGATION TOP ---------------*/
 .navigation {
-    background-color: black !important;
+    background-color: black;
+    height: 100px;
 }
-.navigation .logo-ilit img {
+.logo-ilit img {
     width: 400px;
 }
+.nav-item a:hover {
+    color: #FF000C!important;
+}
+.nav-item {
+    padding: 20px;
+}
+
 
 /* ----------------- HERO CONTENT ---------------*/
 
