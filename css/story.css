@@ -1,6 +1,27 @@
 .main .story-hero {
-    background-color: darkred;
-    height: 800px;
+    background-color: black;
+    height: 1000px;
     padding-top: 50px;
 
+}
+.main p{
+    color:red;
+}
+.main li{
+    color:white;
+}
+.main img{
+    width:100%;
+    padding-bottom: 30px;
+}
+.story-signiture img{
+    width:40%;
+    padding-left: 30px;
+}
+/*
+.col-6{
+    border:1px solid yellow;
+}*/
+.story-width{
+    width:80%;
 }
