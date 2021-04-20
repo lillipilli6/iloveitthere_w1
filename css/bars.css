@@ -1,6 +1,6 @@
 .main .bars-hero {
-    background-color: darkcyan;
-    height: 800px;
+    background-color: rgb(19, 19, 19);
+    height: 100vmax;
     padding-top: 50px;
 }
 .bars-width{
