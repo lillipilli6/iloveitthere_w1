@@ -1,6 +1,40 @@
 .main .contact-hero {
-    background-color: darkmagenta;
-    height: 800px;
+    background-color: #434343;
+    height: 1100px;
     padding-top: 50px;
-
+    
+}
+<-------Text----->
+.main p{
+    color:white;
+}
+.main li{
+    color:white;
+}
+.main ul{
+    color:white;
+}
+#h3{
+    color:white;
+}
+.main img{
+    width:100%;
+    padding-bottom: 30px;
+}
+/*
+.col-6{
+    border:1px solid yellow;
+}*/
+.story-width{
+    width:80%;
+}
+.button {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+  }
+  .button:hover {background-color: #e7e7e7;
+}
+.socials img{
+    width:16%
 }

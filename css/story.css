@@ -1,11 +1,12 @@
 .main .story-hero {
     background-color: black;
-    height: 1000px;
+    height: 1300px;
     padding-top: 50px;
+    padding-bottom: 50px;
 
 }
 .main p{
-    color:red;
+    color:white;
 }
 .main li{
     color:white;
@@ -15,7 +16,8 @@
     padding-bottom: 30px;
 }
 .story-signiture img{
-    width:40%;
+    width:20%;
+    height:70%
     padding-left: 30px;
 }
 /*
