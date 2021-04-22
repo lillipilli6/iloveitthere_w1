@@ -1,9 +1,18 @@
 .main .bars-hero {
-    background-color: rgb(19, 19, 19);
-    height: 100vmax;
     padding-top: 50px;
+}
+.main {
+    background-color: black;
 }
 .bars-width{
     width:80%;
-    border: 1px solid red;
+}
+.bars-hero .card {
+    border: 1px solid black;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.bars-hero .card-body {
+    background-color: black;
+    color: white;
 }
