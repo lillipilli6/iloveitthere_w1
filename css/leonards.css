@@ -1,6 +1,13 @@
 .main .beaufort-hero {
-    background-color: darkblue;
+    background-color: black;
     height: 800px;
     padding-top: 50px;
 
+}
+.leonards-width {
+    width:80%;
+}
+.shop-toggle {
+    background-color: red;
+    width: 50%;
 }
