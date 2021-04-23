@@ -16,6 +16,9 @@
     background-color: black;
     color: white;
 }
+.bars-hero .card-body a:hover {
+        color: #53FF61;
+    }
 
 .margaux {
     background: url("../images/bar-margaux-red.jpg");

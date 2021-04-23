@@ -1,13 +1,54 @@
-.main .beaufort-hero {
+
+.main .shop {
     background-color: black;
     height: 800px;
     padding-top: 50px;
-
 }
+.main .story {
+    background-color: black;
+    height: 800px;
+    padding-top: 50px;
+}
+
 .leonards-width {
     width:80%;
 }
-.shop-toggle {
-    background-color: red;
-    width: 100%%;
+.shop .shop-toggle {
+    background-color: #FF000C;
+    width: 50%;
+    margin: 0px;
+    padding-top: 10px;
 }
+.shop .story-toggle {
+    background-color: white;
+    width: 50%;
+    margin: 0px;
+    padding-top: 10px;
+}
+.story .story-toggle {
+    background-color: #FF000C;
+    width: 50%;
+    margin: 0px;
+    padding-top: 10px;
+}
+.story .shop-toggle {
+    background-color: white;
+    width: 50%;
+    margin: 0px;
+    padding-top: 10px;
+}
+
+.leo a {
+    color: black;
+}
+.leo a:hover {
+    color: #53FF61;
+    cursor: pointer;
+}
+
+.main img{
+    width:100%;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
