@@ -1,6 +1,6 @@
 .main .contact-hero {
-    background-color: #434343;
-    height: 1100px;
+    background-color: black;
+    min-height: 100vh;
     padding-top: 50px;
     
 }
@@ -28,13 +28,15 @@
 .story-width{
     width:80%;
 }
-.button {
-    background-color: white;
-    color: black;
-    border: 2px solid #e7e7e7;
-  }
-  .button:hover {background-color: #e7e7e7;
+
+.contact-hero .form-control {
+    width: 50%;
 }
+
 .socials img{
     width:16%
+}
+
+footer .form-control {
+    width: 100%;
 }

@@ -1,6 +1,7 @@
 /* ----------------- TYPOGRAPHY ---------------*/
 body {
     font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.1rem;
 }
 
 .text-white {
@@ -60,43 +61,56 @@ body {
 
 
 .home-hero {
-    background-image: url(../images/bg-home-top@2x.png);
+    background-image: url(../images/bg-home-top.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .home-hero .container-fluid {
     height: 800px;
-    width: 60%;
-    padding-top: 200px;
+    width: 80%;
+    padding-top: 100px;
 }
 .home-hero .lead {
-    font-weight: 500;
-    letter-spacing: 3px;
-    font-size: 24px;
+    margin-left: 50%;
+}
+.home-hero h1 {
+    margin-left: 50%;
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 20px;
 }
 .main {
     background-color: black;
 }
 .home-feature .container-fluid {
     width: 80%;
-    height: 100vh;
+    height: 600px;
     margin: 0 auto;
 }
 .home-feature img {
     margin-top: 5%;
-    margin-bottom: 5%;
     width: 100%;
 }
-.home-feature .lite-text {
-    margin-top: 20px;
-    font-weight: 100;
-    font-size: 1.2rem;
-    line-height: 2rem;
-}
+
 .footer .container-fluid {
     background-image: url(../images/bg-footer-dark.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
     padding: 3%;
+}
+.btn-primary {
+    background-color: black;
+    color: red;
+    border: 1px solid red;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  .btn-primary:hover {
+      background-color: rgb(118, 1, 1);
+      color: white;
+      border: 1px solid rgb(118, 1, 1);
+}
+footer .form-control {
+    width: 100%;
 }

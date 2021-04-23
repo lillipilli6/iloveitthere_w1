@@ -4,15 +4,107 @@
 .main {
     background-color: black;
 }
-.bars-width{
+.page-width {
     width:80%;
 }
 .bars-hero .card {
     border: 1px solid black;
     margin-top: 5%;
-    margin-bottom:
-}
+    background-color: black;
+    }
 .bars-hero .card-body {
     background-color: black;
     color: white;
 }
+
+.margaux {
+    background: url("../images/bar-margaux-red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.margaux:hover {
+    background: url("../images/bar-margaux.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.beaufort {
+    background: url("../images/bar-beaufort-red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.beaufort:hover {
+    background: url("../images/bar-beaufort.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blackcat  {
+    background: url("../images/bar-black-cat-red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blackcat:hover {
+    background: url("../images/bar-black-cat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cherrybar {
+    background: url("../images/bar-cherry-bar-red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cherrybar:hover {
+    background: url("../images/bar-cherry-bar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.espy {
+    background: url("../images/bar-espy-red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.espy:hover {
+    background: url("../images/bar-espy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heart {
+    background: url("../images/bar-heartbreaker-red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heart:hover {
+    background: url("../images/bar-heartbreaker.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.leo {
+    background: url("../images/bar-leos-red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.leo:hover {
+    background: url("../images/bar-leos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rev  {
+    background: url("../images/bar-rev-red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rev:hover {
+    background: url("../images/bar-rev.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rochy {
+    background: url("../images/bar-rochy-red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rochy:hover {
+    background: url("../images/bar-rochy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
